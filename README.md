@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @samruddhikashmire
-- 👀 I’m interested in creating web applicatins
+- 👀 I’m interested in creating web applications
 - 🌱 I’m currently learning computer science engineering
 - 💞️ I’m looking to collaborate on anything related to programming
 - 📫 How to reach me samruddhikashmire19@gmail.coms
