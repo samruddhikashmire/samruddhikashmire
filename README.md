@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @samruddhikashmire
-- 👀 I’m interested in creating web applications
-- 🌱 I’m currently learning computer science engineering
-- 💞️ I’m looking to collaborate on anything related to programming
-- 📫 How to reach me samruddhikashmire19@gmail.coms
+# Hey, I'm Samruddhi! 👋
 
-<!---
-samruddhikashmire/samruddhikashmire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Software Engineer and M.Tech student at **BITS Pilani**, passionate about building scalable applications and exploring cloud-native technologies.
+
+### 💻 About Me
+- 🎓 Computer Science graduate, currently pursuing M.Tech at BITS Pilani.
+- 💼 Working with SAP technologies and building enterprise-grade applications.
+- ☁️ Interested in Cloud Computing, DevOps, Microservices, and AI-powered developer tools.
+- 🌱 Currently exploring System Design, Data Structures & Algorithms, and Cloud-Native Architecture.
+- 🏸 Outside tech, I enjoy badminton, video games, and travelling.
+
+### 🛠️ Tech Stack
+- **Languages:** Java, C++, TypeScript, JavaScript
+- **Backend:** Spring Boot, SAP CAP
+- **Frontend:** React
+- **Cloud & DevOps:** SAP BTP, Kubernetes, Docker, Jenkins, CI/CD
+- **Databases:** SAP HANA, SQL
+- **Tools:** Git, GitHub, Azure DevOps
+
+### 📌 What I'm Interested In
+Building reliable distributed systems, automating developer workflows, exploring AI-assisted development, and learning how large-scale systems work.
+
+---
+
+*Always curious, always building, always learning.* 🚀
