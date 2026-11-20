@@ -1,6 +1,6 @@
 # Hey, I'm Samruddhi! 👋
 
-I'm a Software Engineer and M.Tech student at **BITS Pilani**, passionate about building scalable applications and exploring cloud-native technologies.
+I'm a Software Engineer at SAP and M.Tech student at **BITS Pilani**, passionate about building scalable applications and exploring cloud-native technologies.
 
 ### 💻 About Me
 - 🎓 Computer Science graduate, currently pursuing M.Tech at BITS Pilani.
