@@ -4,7 +4,7 @@ I'm a Software Engineer at SAP and M.Tech student at **BITS Pilani**, passionate
 
 ### 💻 About Me
 - 🎓 Computer Science graduate, currently pursuing M.Tech at BITS Pilani.
-- 💼 Working with SAP technologies and building enterprise-grade applications.
+- 💼 Working with SAP and building enterprise-grade applications.
 - ☁️ Interested in Cloud Computing, DevOps, Microservices, and AI-powered developer tools.
 - 🌱 Currently exploring System Design, Data Structures & Algorithms, and Cloud-Native Architecture.
 - 🏸 Outside tech, I enjoy badminton, video games, and travelling.
